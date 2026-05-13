@@ -20,4 +20,5 @@ This project is a real-time financial data visualization tool built with **Pytho
    ```bash
    pip install -r requirements.txt
 3. Launch the dashboard:
-python -m streamlit run dashboard.py
+   ```bash
+   python -m streamlit run dashboard.py
