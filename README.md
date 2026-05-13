@@ -2,7 +2,6 @@
 
 This project is a real-time financial data visualization tool built with **Python** and **Streamlit**.
 
-```markdown
 ## 🎯 Key Features
 * **Automated Data Retrieval:** Fetches hourly (1h) market data for the last 1 month using Yahoo Finance API.
 * **Data Persistence:** Automatically stores data in data.csv to comply with project requirements.
